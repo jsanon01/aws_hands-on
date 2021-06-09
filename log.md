@@ -56,3 +56,10 @@ Using AWS Key Management for services listed below
 Using AWS IAM to securely manage access to AWS services and resources
 
 ![Identity Access Management](https://github.com/jsanon01/aws_hands-on/blob/main/images/iam_roles.png)
+
+
+### Lucidchart 
+
+Drawing on Lucidchart the following AWS services for High Availability: EC2s + ASG + ELB + HA + S3
+
+![H.A.](https://github.com/jsanon01/aws_hands-on/blob/main/images/design_ha.png)
