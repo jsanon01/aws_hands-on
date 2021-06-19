@@ -53,7 +53,7 @@ Using AWS Key Management for services listed below
 
 ### AWS IAM
 
-Using AWS IAM to securely manage access to AWS services and resources
+Using AWS IAM to securely manage access to AWS services and resources ...
 
 ![Identity Access Management](https://github.com/jsanon01/aws_hands-on/blob/main/images/iam_roles.png)
 
